@@ -19,7 +19,7 @@ You will also need to install and setup the Postgres server using the following:
 Switch over to the postgres user using:
     sudo -i -u postgres
     createuser --interactive
-
+TODO: Use [https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-14-04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-14-04) to setup Postgres.
 
 ## Running
 
